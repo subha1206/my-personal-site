@@ -21,6 +21,7 @@ h1{
 .p{
   width: 50%;
   margin: auto;
+  line-height:2;
 }
 .top_container{
   position: relative;
