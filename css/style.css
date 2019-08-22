@@ -61,13 +61,13 @@ h1{
 .skills{
   background-color: #dadada;
 }
-.skill_1:hover{
+.skill_1{
   padding: 30px;
 }
-.skill_2:hover{
+.skill_2{
   padding: 30px;
 }
-.skill_3:hover{
+.skill_3{
   padding: 30px;
 }
 .python{
