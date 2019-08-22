@@ -18,6 +18,10 @@ h1{
 .h3{
   font-family: 'Montserrat', sans-serif;
 }
+.p{
+  width: 50%;
+  margin: auto;
+}
 .top_container{
   position: relative;
   width: 100%;
